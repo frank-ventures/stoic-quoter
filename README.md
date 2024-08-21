@@ -8,6 +8,8 @@ You can click the quote box to get a new one.
 
 Built with Next.js, using a few client components.
 
+Tailwind for CSS _(aside from the coin loading animation)_
+
 Making use of a Stoic Quote API, found [here](https://github.com/benhoneywill/stoic-quotes/tree/master)
 
 ## Resources
