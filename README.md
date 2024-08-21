@@ -1,10 +1,12 @@
 # Stoic Quote App
 
-Just a real simple, minimal app that lets you see a Stoic quote
+Just a real simple, minimal app that lets you see a Stoic quote!
+
+You can click the quote box to get a new one.
 
 ## The Build
 
-Built with Next.js and using a few client components.
+Built with Next.js, using a few client components.
 
 Making use of a Stoic Quote API, found [here](https://github.com/benhoneywill/stoic-quotes/tree/master)
 

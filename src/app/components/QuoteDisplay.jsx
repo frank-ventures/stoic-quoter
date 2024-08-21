@@ -28,10 +28,10 @@ export default function QuoteDisplay() {
   return (
     <div
       onClick={handleClick}
-      className={`quote-container flex flex-col justify-evenly items-center rounded-md shadow-lg shadow-black bg-amber-500 p-6 w-5/6 min-h-[40%] md:w-4/6 lg:w-3/6
+      className={`quote-container flex flex-col justify-evenly items-center rounded-sm shadow-lg shadow-black bg-amber-500 p-6 w-5/6 min-h-[40%] md:w-4/6 lg:w-3/6
         ${
           loading
-            ? "cursor-disabled, pointer-events-none"
+            ? "cursor-disabled hover:bg-amber-500 pointer-events-none"
             : "cursor-pointer hover:bg-amber-600 active:bg-orange-400"
         }`}
     >
